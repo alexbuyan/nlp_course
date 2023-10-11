@@ -2,8 +2,7 @@
 
 ### Materials
 - [__lecture slides__](https://drive.google.com/file/d/1wQ8VRiKLxfqAndLh3Djr1jIMixacznQF/view?usp=sharing)
-* Our 2022 videos (russian) - [lecture](https://disk.yandex.ru/i/OVaReqW9-JXcpw), [seminar](https://disk.yandex.ru/i/MFBQTb01TMLzSA)
-* Our 2021 videos (russian) - [lecture](https://disk.yandex.ru/i/eU5CYYwW5fcYfQ), [seminar](https://disk.yandex.ru/i/gB3oH8Qt5v49cA)
+* Our videos (russian) - [lecture](https://disk.yandex.ru/i/NKyh_2Lw8U5h0g), [seminar](https://disk.yandex.ru/d/5-ngGyipKHwmaQ)
 * Stanford nlp videos: [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
 ### Practice
